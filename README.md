@@ -16,20 +16,20 @@ Here are some ideas to get you started:
 
   
   <a href="https://jehyunlee.github.io/">
-    <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="28px" alt="Jehyun Lee | github blog">
-  </a>
+    <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="28px" alt="Jehyun Lee | github blog" />
+  </a> &nbsp; 
   <a href="https://jehyunlee.tistory.com/">
-    <img src="https://img.pngio.com/-tistory-png-232_237.jpg" width="28px" alt="Jehyun Lee | tistory blog">
-  </a>
+    <img src="https://img.pngio.com/-tistory-png-232_237.jpg" width="28px" alt="Jehyun Lee | tistory blog" />
+  </a> &nbsp;  
   <a href="https://www.linkedin.com/in/jehyunlee0224/">
-    <img align="left" alt="Jehyun Lee | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
-  </a>
+    <img alt="Jehyun Lee | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;  
   <a href="https://scholar.google.com/citations?user=eiloXe0AAAAJ&hl=en">
-    <img align="left" alt="Jehyun Lee | Google Scholar" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/google_scholar_icon_130918.png" />
-  </a>
+    <img alt="Jehyun Lee | Google Scholar" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/google_scholar_icon_130918.png" />
+  </a> &nbsp;  
   <a href="mailto:jehyun.lee@gmail.com">
-    <img align="left" alt="Jehyun Lee | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
-  </a>
+    <img alt="Jehyun Lee | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;  
   
 
 <br><br>
