@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 ![jehyunlee's github stats](https://github-readme-stats.vercel.app/api?username=jehyunlee&show_icons=true&hide_border=true)
 
+  
+  <a href="https://jehyunlee.github.io/">
+    <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="Jehyun Lee | github blog">
+  </a>
   <a href="https://www.linkedin.com/in/jehyunlee0224/">
     <img align="left" alt="Jehyun Lee | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -25,5 +29,6 @@ Here are some ideas to get you started:
   <a href="mailto:jehyun.lee@gmail.com">
     <img align="left" alt="Jehyun Lee | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
   </a>
+  
 
 <br><br>
