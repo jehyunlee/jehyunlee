@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jehyunlee/jehyunlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,10 @@ Here are some ideas to get you started:
 
   
   <a href="https://jehyunlee.github.io/">
-    <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="Jehyun Lee | github blog">
+    <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="28px" alt="Jehyun Lee | github blog">
+  </a>
+  <a href="https://jehyunlee.tistory.com/">
+    <img src="https://img.pngio.com/-tistory-png-232_237.jpg" width="28px" alt="Jehyun Lee | tistory blog">
   </a>
   <a href="https://www.linkedin.com/in/jehyunlee0224/">
     <img align="left" alt="Jehyun Lee | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
