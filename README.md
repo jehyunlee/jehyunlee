@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![jehyunlee's github stats](https://github-readme-stats.vercel.app/api?username=jehyunlee&show_icons=true&hide_border=true)
 
-  
+ 
   <a href="https://jehyunlee.github.io/">
     <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="28px" alt="Jehyun Lee | github blog" />
   </a> &nbsp; 
